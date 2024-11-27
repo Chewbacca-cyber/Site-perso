@@ -1,0 +1,19 @@
+body{
+    background-color: salmon;
+}
+	
+.intro{
+	font-family: calibri;
+	font-size: xx-large;
+	text-align: center;
+}
+
+.loutre{
+	width: 1000px;
+	display: block;
+	margin: auto;
+}
+
+.fin{
+	text-align: center;
+}
