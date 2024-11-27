@@ -1,19 +1,16 @@
 body{
     background-color: salmon;
+	text-align: center
 }
 	
 .intro{
 	font-family: calibri;
 	font-size: xx-large;
-	text-align: center;
+	;
 }
 
 .loutre{
 	width: 1000px;
 	display: block;
 	margin: auto;
-}
-
-.fin{
-	text-align: center;
 }
